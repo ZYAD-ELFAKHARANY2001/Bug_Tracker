@@ -1,0 +1,2 @@
+2023101326,bug 1,update button not working,10/04/2023,Very High,Need Fix,,,,
+2023161429,bug 2,Remove button not working ,16/04/2023,Medium,Working On It,
